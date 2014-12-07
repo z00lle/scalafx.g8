@@ -15,7 +15,17 @@ You need following things to use this template
 
 Usage
 =====
+    
+     original template 
+     
      $ g8 scalafx/scalafx.g8
+
+
+     for my environment 
+
+     $ g8 z00lle/scalafx.g8
+
+
 
 License
 =======
